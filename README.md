@@ -1,4 +1,4 @@
-# Solar-Panel-Fault-Detection---Deep-Learning
+
 # 🔆 Solar Panel Fault Detection
 
 A deep learning classifier that detects faults in solar panels using transfer learning with **EfficientNetB0**. The model classifies solar panel images into 6 categories and achieves **82.76% test accuracy**.
